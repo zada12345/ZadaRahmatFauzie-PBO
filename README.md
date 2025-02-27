@@ -1,3 +1,3 @@
-# ZadaRahmatFauzie
-2300705145
+# Zada Rahmat Fauzie (230705145)
+
 Repository Mata Kuliah Pemrograman Berorientasi Object
